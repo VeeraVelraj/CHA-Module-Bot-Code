@@ -42,4 +42,4 @@ if flag:
 else:
     validate_error_flag = False
 response = {"error": validate_error_flag}
-
+response = {"message":"New commit"}
